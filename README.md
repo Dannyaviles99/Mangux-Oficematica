@@ -2,7 +2,7 @@
 
 ## Descarga el launcher
 
-**[⬇ Mangux Ofimática (launcher) 0.1.1 — APK para Android](https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/launcher-v0.1.1/launcher-0.1.1-2.apk)**
+**[⬇ Mangux Ofimática (launcher) 0.1.2 — APK para Android](https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/launcher-v0.1.2/launcher-0.1.2-3.apk)**
 
 Es lo único que necesitas instalar. Al abrirlo escribe tu llave y tu código de activación; desde dentro instalas y actualizas Mangux Leaf, Xcore, Prism y Seal.
 
