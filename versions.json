@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "channel": "stable",
-  "generated_at": 1794600395,
+  "generated_at": 1794600426,
   "apps": [
     {
       "id": "launcher",
@@ -56,7 +56,7 @@
       "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/griddroid-v0.1.0/griddroid-0.1.0-1.apk",
       "sha256": "20599a3ab35609b730670393078550d4a2791a6b01c59f5f8d544fe84858b9f9",
       "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
-      "notes": "",
+      "notes": "# Mangux Xcore 0.1.0\n\n- Primera versión publicada.",
       "apk": "griddroid-0.1.0-1.apk",
       "published_at": 1794600395
     },
@@ -75,7 +75,7 @@
       "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/deckdroid-v0.1.0/deckdroid-0.1.0-1.apk",
       "sha256": "8947b466433d7a95f7d5ad5bf6e16963f946897b99c51ca244933cce8727659d",
       "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
-      "notes": "",
+      "notes": "# Mangux Prism 0.1.0\n\n- Primera versión publicada.",
       "apk": "deckdroid-0.1.0-1.apk",
       "published_at": 1794600395
     },
@@ -94,7 +94,7 @@
       "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/pdfdroid-v0.1.0/pdfdroid-0.1.0-1.apk",
       "sha256": "8d4f74ce0e82b1007e390f4d2e268160213bfee90927dd141dd252b7705aa809",
       "signer_sha256": "32bbc3e5333f62bd40b2111dc8f99112cf27b89bcd9aafd51dcce3b3e98029e0",
-      "notes": "",
+      "notes": "# Mangux Seal 0.1.0\n\n- Primera versión publicada.",
       "apk": "pdfdroid-0.1.0-1.apk",
       "published_at": 1794600395
     }
