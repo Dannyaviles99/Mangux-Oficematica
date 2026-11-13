@@ -1,26 +1,26 @@
 {
   "schema": 1,
   "channel": "stable",
-  "generated_at": 1794602050,
+  "generated_at": 1794603540,
   "apps": [
     {
       "id": "launcher",
       "package": "dev.droidcraft.launcher",
       "name": "Mangux Ofimática",
       "status": "available",
-      "version": "0.1.2",
-      "version_code": 3,
+      "version": "0.1.3",
+      "version_code": 4,
       "min_sdk": 26,
       "abis": [
         "arm64-v8a"
       ],
-      "size": 9704380,
-      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/launcher-v0.1.2/launcher-0.1.2-3.apk",
-      "sha256": "08ac876f489c2786278a9cd0deea3a2fe8ee8da4ba51bfb7795d48d28ce19ca2",
+      "size": 9700284,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/launcher-v0.1.3/launcher-0.1.3-4.apk",
+      "sha256": "4dbff9697f040898049daba3bf0251ab645daee27d5c6afed168603cdc13901e",
       "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
-      "notes": "# Mangux Ofimática 0.1.2\n\n- Si una app no se puede instalar, la tarjeta ahora dice el motivo (catálogo sin cargar o dispositivo no compatible) en lugar de «Próximamente».",
-      "apk": "launcher-0.1.2-3.apk",
-      "published_at": 1794601996
+      "notes": "# Mangux Ofimática 0.1.3\n\n- Corrige «No disponible» en apps no instaladas: ahora muestran Descargar.\n- Botones por estado: Descargar → progreso → Instalar → Abrir; Actualizar y Reintentar.\n- Recuerda una descarga terminada si cierras la app antes de instalar.",
+      "apk": "launcher-0.1.3-4.apk",
+      "published_at": 1794603524
     },
     {
       "id": "worddroid",
