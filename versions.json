@@ -1,0 +1,102 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "generated_at": 1794600395,
+  "apps": [
+    {
+      "id": "launcher",
+      "package": "dev.droidcraft.launcher",
+      "name": "Mangux Ofimática",
+      "status": "available",
+      "version": "0.1.1",
+      "version_code": 2,
+      "min_sdk": 26,
+      "abis": [
+        "arm64-v8a"
+      ],
+      "size": 9700284,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/launcher-v0.1.1/launcher-0.1.1-2.apk",
+      "sha256": "e6ebe34f7b55d7798ea5cb75cc1603da8d8367774bd10cceb9cb2178435bd6c4",
+      "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
+      "notes": "# Mangux Ofimática 0.1.1\n\n- Consulta el catálogo público de versiones y actualiza las aplicaciones y a sí mismo desde GitHub.",
+      "apk": "launcher-0.1.1-2.apk",
+      "published_at": 1794600395
+    },
+    {
+      "id": "worddroid",
+      "package": "dev.droidcraft.word",
+      "name": "Mangux Leaf",
+      "status": "available",
+      "version": "0.1.1",
+      "version_code": 2,
+      "min_sdk": 26,
+      "abis": [
+        "arm64-v8a"
+      ],
+      "size": 78984270,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/worddroid-v0.1.1/worddroid-0.1.1-2.apk",
+      "sha256": "0f4ca6c543136fdfbe56e402fc8e8460a779639d5693663e47e0b3e12fd56a66",
+      "signer_sha256": "32bbc3e5333f62bd40b2111dc8f99112cf27b89bcd9aafd51dcce3b3e98029e0",
+      "notes": "# Mangux Leaf 0.1.1\n\n- Versión de prueba del sistema de actualizaciones: no cambia el comportamiento del programa.",
+      "apk": "worddroid-0.1.1-2.apk",
+      "published_at": 1794600395
+    },
+    {
+      "id": "griddroid",
+      "package": "dev.droidcraft.grid",
+      "name": "Mangux Xcore",
+      "status": "available",
+      "version": "0.1.0",
+      "version_code": 1,
+      "min_sdk": 26,
+      "abis": [
+        "arm64-v8a"
+      ],
+      "size": 54781567,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/griddroid-v0.1.0/griddroid-0.1.0-1.apk",
+      "sha256": "20599a3ab35609b730670393078550d4a2791a6b01c59f5f8d544fe84858b9f9",
+      "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
+      "notes": "",
+      "apk": "griddroid-0.1.0-1.apk",
+      "published_at": 1794600395
+    },
+    {
+      "id": "deckdroid",
+      "package": "dev.droidcraft.deck",
+      "name": "Mangux Prism",
+      "status": "available",
+      "version": "0.1.0",
+      "version_code": 1,
+      "min_sdk": 26,
+      "abis": [
+        "arm64-v8a"
+      ],
+      "size": 63800915,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/deckdroid-v0.1.0/deckdroid-0.1.0-1.apk",
+      "sha256": "8947b466433d7a95f7d5ad5bf6e16963f946897b99c51ca244933cce8727659d",
+      "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
+      "notes": "",
+      "apk": "deckdroid-0.1.0-1.apk",
+      "published_at": 1794600395
+    },
+    {
+      "id": "pdfdroid",
+      "package": "dev.droidcraft.pdf",
+      "name": "Mangux Seal",
+      "status": "available",
+      "version": "0.1.0",
+      "version_code": 1,
+      "min_sdk": 26,
+      "abis": [
+        "arm64-v8a"
+      ],
+      "size": 78672292,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/pdfdroid-v0.1.0/pdfdroid-0.1.0-1.apk",
+      "sha256": "8d4f74ce0e82b1007e390f4d2e268160213bfee90927dd141dd252b7705aa809",
+      "signer_sha256": "32bbc3e5333f62bd40b2111dc8f99112cf27b89bcd9aafd51dcce3b3e98029e0",
+      "notes": "",
+      "apk": "pdfdroid-0.1.0-1.apk",
+      "published_at": 1794600395
+    }
+  ]
+}
