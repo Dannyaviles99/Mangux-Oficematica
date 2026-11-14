@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "channel": "stable",
-  "generated_at": 1794624121,
+  "generated_at": 1794626872,
   "apps": [
     {
       "id": "launcher",
@@ -65,19 +65,19 @@
       "package": "dev.droidcraft.deck",
       "name": "Mangux Prism",
       "status": "available",
-      "version": "0.1.1",
-      "version_code": 2,
+      "version": "0.1.2",
+      "version_code": 3,
       "min_sdk": 26,
       "abis": [
         "arm64-v8a"
       ],
-      "size": 63821395,
-      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/deckdroid-v0.1.1/deckdroid-0.1.1-2.apk",
-      "sha256": "426d23a5546998d25fb44f78d8f73b9c91be34c75f34de582aec99d67986f21b",
+      "size": 63800915,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/deckdroid-v0.1.2/deckdroid-0.1.2-3.apk",
+      "sha256": "3893ab072df4def3e26cbba0ce712733737df4e76404a7682980478fc0242612",
       "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
-      "notes": "Mangux Prism 0.1.1\n\n- Atrás / gesto de retroceso: pregunta Guardar, No guardar o Cancelar si hay cambios; sin cambios sale directo.",
-      "apk": "deckdroid-0.1.1-2.apk",
-      "published_at": 1794624121
+      "notes": "Mangux Prism 0.1.2\n\n- El panel de diapositivas se pliega con una flecha (en teléfono arranca más estrecho) y conserva la selección y el orden.\n- Una flecha oculta y muestra las barras inferiores (pestañas, herramientas y estado) para ganar espacio, en vertical y en horizontal.",
+      "apk": "deckdroid-0.1.2-3.apk",
+      "published_at": 1794626872
     },
     {
       "id": "pdfdroid",
