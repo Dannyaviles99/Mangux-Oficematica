@@ -1,31 +1,50 @@
 {
   "schema": 1,
   "channel": "stable",
-  "generated_at": 1794603582,
+  "generated_at": 1794624121,
   "apps": [
     {
       "id": "launcher",
       "package": "dev.droidcraft.launcher",
       "name": "Mangux Ofimática",
       "status": "available",
-      "version": "0.1.3",
-      "version_code": 4,
+      "version": "0.1.4",
+      "version_code": 5,
       "min_sdk": 26,
       "abis": [
         "arm64-v8a"
       ],
-      "size": 9700284,
-      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/launcher-v0.1.3/launcher-0.1.3-4.apk",
-      "sha256": "4dbff9697f040898049daba3bf0251ab645daee27d5c6afed168603cdc13901e",
+      "size": 9712572,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/launcher-v0.1.4/launcher-0.1.4-5.apk",
+      "sha256": "6f41f071defd0a5500421cae04aa2ed0fafcf38946dae2c82690d7d1e12979ed",
       "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
-      "notes": "# Mangux Ofimática 0.1.3\n\n- Corrige «No disponible» en apps no instaladas: ahora muestran Descargar.\n- Botones por estado: Descargar → progreso → Instalar → Abrir; Actualizar y Reintentar.\n- Recuerda una descarga terminada si cierras la app antes de instalar.",
-      "apk": "launcher-0.1.3-4.apk",
-      "published_at": 1794603524
+      "notes": "Mangux Ofimática 0.1.4\n\n- Las descargas siguen en segundo plano aunque salgas de la app (servicio con notificación).\n- El porcentaje ya no retrocede y un segundo toque no repite la descarga.\n- Los botones Descargar e Instalar responden al primer toque.\n- Estados claros: Descargando, En pausa, Descarga completada, Instalando.\n- La activación se escribe con un teclado propio en pantalla.",
+      "apk": "launcher-0.1.4-5.apk",
+      "published_at": 1794624121
     },
     {
       "id": "worddroid",
       "package": "dev.droidcraft.word",
       "name": "Mangux Leaf",
+      "status": "available",
+      "version": "0.1.2",
+      "version_code": 3,
+      "min_sdk": 26,
+      "abis": [
+        "arm64-v8a"
+      ],
+      "size": 79030590,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/worddroid-v0.1.2/worddroid-0.1.2-3.apk",
+      "sha256": "dbbfb4b29efca88080a2452c8113b2b0570a6715df21fa57db1fc8c4eb05f123",
+      "signer_sha256": "32bbc3e5333f62bd40b2111dc8f99112cf27b89bcd9aafd51dcce3b3e98029e0",
+      "notes": "Mangux Leaf 0.1.2\n\n- Atrás / gesto de retroceso: pregunta Guardar, No guardar o Cancelar si hay cambios; sin cambios sale directo.\n- Tablas: se pueden arrastrar los bordes con el dedo con la tabla seleccionada y hay campos de Alto y Ancho de celda.",
+      "apk": "worddroid-0.1.2-3.apk",
+      "published_at": 1794624121
+    },
+    {
+      "id": "griddroid",
+      "package": "dev.droidcraft.grid",
+      "name": "Mangux Xcore",
       "status": "available",
       "version": "0.1.1",
       "version_code": 2,
@@ -33,70 +52,51 @@
       "abis": [
         "arm64-v8a"
       ],
-      "size": 78984270,
-      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/worddroid-v0.1.1/worddroid-0.1.1-2.apk",
-      "sha256": "0f4ca6c543136fdfbe56e402fc8e8460a779639d5693663e47e0b3e12fd56a66",
-      "signer_sha256": "32bbc3e5333f62bd40b2111dc8f99112cf27b89bcd9aafd51dcce3b3e98029e0",
-      "notes": "# Mangux Leaf 0.1.1\n\n- Versión de prueba del sistema de actualizaciones: no cambia el comportamiento del programa.",
-      "apk": "worddroid-0.1.1-2.apk",
-      "published_at": 1794600395
-    },
-    {
-      "id": "griddroid",
-      "package": "dev.droidcraft.grid",
-      "name": "Mangux Xcore",
-      "status": "available",
-      "version": "0.1.0",
-      "version_code": 1,
-      "min_sdk": 26,
-      "abis": [
-        "arm64-v8a"
-      ],
-      "size": 54781567,
-      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/griddroid-v0.1.0/griddroid-0.1.0-1.apk",
-      "sha256": "20599a3ab35609b730670393078550d4a2791a6b01c59f5f8d544fe84858b9f9",
+      "size": 54830719,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/griddroid-v0.1.1/griddroid-0.1.1-2.apk",
+      "sha256": "1c6b1b90ad0e5b419b2fe6bc2ef79771d412361dc4f38601469cdf6564ab894d",
       "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
-      "notes": "# Mangux Xcore 0.1.0\n\n- Primera versión publicada.",
-      "apk": "griddroid-0.1.0-1.apk",
-      "published_at": 1794600395
+      "notes": "Mangux Xcore 0.1.1\n\n- Atrás / gesto de retroceso: pregunta Guardar, No guardar o Cancelar si hay cambios; sin cambios sale directo.",
+      "apk": "griddroid-0.1.1-2.apk",
+      "published_at": 1794624121
     },
     {
       "id": "deckdroid",
       "package": "dev.droidcraft.deck",
       "name": "Mangux Prism",
       "status": "available",
-      "version": "0.1.0",
-      "version_code": 1,
+      "version": "0.1.1",
+      "version_code": 2,
       "min_sdk": 26,
       "abis": [
         "arm64-v8a"
       ],
-      "size": 63800915,
-      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/deckdroid-v0.1.0/deckdroid-0.1.0-1.apk",
-      "sha256": "8947b466433d7a95f7d5ad5bf6e16963f946897b99c51ca244933cce8727659d",
+      "size": 63821395,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/deckdroid-v0.1.1/deckdroid-0.1.1-2.apk",
+      "sha256": "426d23a5546998d25fb44f78d8f73b9c91be34c75f34de582aec99d67986f21b",
       "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
-      "notes": "# Mangux Prism 0.1.0\n\n- Primera versión publicada.",
-      "apk": "deckdroid-0.1.0-1.apk",
-      "published_at": 1794600395
+      "notes": "Mangux Prism 0.1.1\n\n- Atrás / gesto de retroceso: pregunta Guardar, No guardar o Cancelar si hay cambios; sin cambios sale directo.",
+      "apk": "deckdroid-0.1.1-2.apk",
+      "published_at": 1794624121
     },
     {
       "id": "pdfdroid",
       "package": "dev.droidcraft.pdf",
       "name": "Mangux Seal",
       "status": "available",
-      "version": "0.1.0",
-      "version_code": 1,
+      "version": "0.1.1",
+      "version_code": 2,
       "min_sdk": 26,
       "abis": [
         "arm64-v8a"
       ],
-      "size": 78672292,
-      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/pdfdroid-v0.1.0/pdfdroid-0.1.0-1.apk",
-      "sha256": "8d4f74ce0e82b1007e390f4d2e268160213bfee90927dd141dd252b7705aa809",
+      "size": 78675348,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/pdfdroid-v0.1.1/pdfdroid-0.1.1-2.apk",
+      "sha256": "05e79e3f3602a5612cf9baea728b44e0093f0c2c872d44acab57db44c7451079",
       "signer_sha256": "32bbc3e5333f62bd40b2111dc8f99112cf27b89bcd9aafd51dcce3b3e98029e0",
-      "notes": "# Mangux Seal 0.1.0\n\n- Primera versión publicada.",
-      "apk": "pdfdroid-0.1.0-1.apk",
-      "published_at": 1794600395
+      "notes": "Mangux Seal 0.1.1\n\n- Atrás / gesto de retroceso: pregunta Guardar, No guardar o Cancelar si hay cambios; sin cambios sale directo.",
+      "apk": "pdfdroid-0.1.1-2.apk",
+      "published_at": 1794624121
     }
   ]
 }
