@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "generated_at": 1795150062,
+  "generated_at": 1795150887,
   "apps": [
     {
       "id": "office",
       "package": "com.mangux.office",
       "name": "Mangux Ofimática",
       "status": "available",
-      "version": "0.1.1",
-      "version_code": 2,
+      "version": "0.1.2",
+      "version_code": 3,
       "min_sdk": 26,
       "abis": [
         "arm64-v8a",
@@ -17,13 +17,13 @@
         "x86",
         "x86_64"
       ],
-      "size": 269141981,
-      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/office-v0.1.1/office-0.1.1-2.apk",
-      "sha256": "08d8c6a5d28512aaa874d34fc090aaa59cc76953080bf6444c51ff680c59e400",
+      "size": 269137885,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/office-v0.1.2/office-0.1.2-3.apk",
+      "sha256": "c64ba82026418381d75fc3999501f4190b0983ee69a22546ea66fbd052b48d09",
       "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
-      "notes": "Mangux Ofimática 0.1.1 (beta)\n\n- Nuevo aspecto «cristal» con modo Automático, Claro y Oscuro (selector en la barra superior).\n- Al mantener presionada una app, su tarjeta se ilumina con su color (azul, verde, naranja, rojo).\n- Detalles de la app con capturas, funciones y versión instalada.\n- «Abrir desde la nube» y «Guardar en la nube» (Google Drive y OneDrive) en Leaf, XCore, Prism y Seal.\n- Escribir a texto en Leaf corregido.\n- En Xiaomi, el acceso directo en el escritorio pide el permiso «Crear accesos directos».",
-      "apk": "office-0.1.1-2.apk",
-      "published_at": 1795150062
+      "notes": "Mangux Ofimática 0.1.2 (beta)\n\n- Una vez activada la licencia, la llave y el código de activación dejan de mostrarse en la app.\n- La dirección del catálogo de actualizaciones y el campo de token ya no aparecen: «Buscar actualizaciones» funciona directamente.",
+      "apk": "office-0.1.2-3.apk",
+      "published_at": 1795150887
     },
     {
       "id": "launcher",
