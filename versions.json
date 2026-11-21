@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "generated_at": 1795269730,
+  "generated_at": 1795271627,
   "apps": [
     {
       "id": "office",
       "package": "com.mangux.office",
       "name": "Mangux Ofimática",
       "status": "available",
-      "version": "0.1.4",
-      "version_code": 6,
+      "version": "0.1.5",
+      "version_code": 7,
       "min_sdk": 26,
       "abis": [
         "arm64-v8a",
@@ -17,13 +17,13 @@
         "x86",
         "x86_64"
       ],
-      "size": 208648157,
-      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/office-v0.1.4/office-0.1.4-6.apk",
-      "sha256": "7da6325c6e66069ec0fd40c9567634e3a098ed04beee4d87e40704728355fde3",
+      "size": 208664541,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/office-v0.1.5/office-0.1.5-7.apk",
+      "sha256": "1b48dbed96cc55721af3b8f3c24bdcaa05d40e91259ba8b4007f7186b0dec73c",
       "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
-      "notes": "Versión 0.1.4: la interfaz se adapta al tamaño de la pantalla. En teléfono el Hub muestra los 4 editores en cuadrícula 2x2 y el menú Archivo de Leaf, XCore y Prism va en dos pasos (lista y página a ancho completo). Los diálogos y el buscador de comandos caben en pantalla. Leaf abre los documentos ajustados al ancho. XCore ahora abre en Inicio, como Leaf y Prism. En tablet todo sigue como antes.",
-      "apk": "office-0.1.4-6.apk",
-      "published_at": 1795269575
+      "notes": "Versión 0.1.5: el Hub avisa al abrir si hay una versión nueva y la descarga en segundo plano con barra de progreso; después se instala con un toque. Los errores de descarga o instalación ahora se muestran.",
+      "apk": "office-0.1.5-7.apk",
+      "published_at": 1795271530
     },
     {
       "id": "launcher",
