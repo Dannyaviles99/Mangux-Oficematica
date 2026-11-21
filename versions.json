@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "generated_at": 1795248257,
+  "generated_at": 1795269730,
   "apps": [
     {
       "id": "office",
       "package": "com.mangux.office",
       "name": "Mangux Ofimática",
       "status": "available",
-      "version": "0.1.3",
-      "version_code": 5,
+      "version": "0.1.4",
+      "version_code": 6,
       "min_sdk": 26,
       "abis": [
         "arm64-v8a",
@@ -17,13 +17,13 @@
         "x86",
         "x86_64"
       ],
-      "size": 269141981,
-      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/office-v0.1.3/office-0.1.3-5.apk",
-      "sha256": "c0718d63da3dc5a3f475b237e2f5f2e4c71733981122ae821178c060eb5a9f1c",
+      "size": 208648157,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/office-v0.1.4/office-0.1.4-6.apk",
+      "sha256": "7da6325c6e66069ec0fd40c9567634e3a098ed04beee4d87e40704728355fde3",
       "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
-      "notes": "Versión 0.1.3: la capa Android de los editores se reescribió en Kotlin (los motores no cambian). Misma funcionalidad.",
-      "apk": "office-0.1.3-5.apk",
-      "published_at": 1795248134
+      "notes": "Versión 0.1.4: la interfaz se adapta al tamaño de la pantalla. En teléfono el Hub muestra los 4 editores en cuadrícula 2x2 y el menú Archivo de Leaf, XCore y Prism va en dos pasos (lista y página a ancho completo). Los diálogos y el buscador de comandos caben en pantalla. Leaf abre los documentos ajustados al ancho. XCore ahora abre en Inicio, como Leaf y Prism. En tablet todo sigue como antes.",
+      "apk": "office-0.1.4-6.apk",
+      "published_at": 1795269575
     },
     {
       "id": "launcher",
