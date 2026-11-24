@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "generated_at": 1795271627,
+  "generated_at": 1795481114,
   "apps": [
     {
       "id": "office",
       "package": "com.mangux.office",
       "name": "Mangux Ofimática",
       "status": "available",
-      "version": "0.1.5",
-      "version_code": 7,
+      "version": "0.1.6",
+      "version_code": 8,
       "min_sdk": 26,
       "abis": [
         "arm64-v8a",
@@ -17,13 +17,13 @@
         "x86",
         "x86_64"
       ],
-      "size": 208664541,
-      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/office-v0.1.5/office-0.1.5-7.apk",
-      "sha256": "1b48dbed96cc55721af3b8f3c24bdcaa05d40e91259ba8b4007f7186b0dec73c",
+      "size": 211239954,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/office-v0.1.6/office-0.1.6-8.apk",
+      "sha256": "14e4e86fc2c310d5d7f7c623805637aa2744d1b2fe8ea6a419a317730a3c9979",
       "signer_sha256": "942426f77687fdbdf6a487457ab019f1150f3231bb03a23b55727e4f65f1bc39",
-      "notes": "Versión 0.1.5: el Hub avisa al abrir si hay una versión nueva y la descarga en segundo plano con barra de progreso; después se instala con un toque. Los errores de descarga o instalación ahora se muestran.",
-      "apk": "office-0.1.5-7.apk",
-      "published_at": 1795271530
+      "notes": "Mangux Ofimática 0.1.6 (beta)\n\n- Tres idiomas, elegidos dentro de la app (Configuración › Idioma), sin depender del idioma de Android: español latinoamericano, portugués de Brasil e inglés de Estados Unidos. El cambio llega al Hub y a los cuatro editores al instante, incluso con un documento abierto.\n- Textos completados y revisados en los tres idiomas: menús, diálogos, mensajes de error, nube, licencia y actualizaciones. El español usa vocabulario latinoamericano (nada de España).\n- Corrector ortográfico sin conexión en Leaf, XCore y Prism, con diccionarios de español latinoamericano (con palabras de Ecuador y México), portugués de Brasil e inglés de Estados Unidos. Por defecto sigue el idioma de la interfaz y se puede cambiar por documento.\n- XCore ahora revisa la ortografía con Hunspell (antes solo inglés) y recuerda el idioma elegido.\n- El dictado y la escritura a texto usan el idioma elegido en Mangux.",
+      "apk": "office-0.1.6-8.apk",
+      "published_at": 1795481114
     },
     {
       "id": "launcher",
