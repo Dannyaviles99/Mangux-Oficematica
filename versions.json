@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "channel": "stable",
-  "generated_at": 1795481114,
+  "generated_at": 1795793596,
   "apps": [
     {
       "id": "office",
@@ -24,6 +24,25 @@
       "notes": "Mangux Ofimática 0.1.6 (beta)\n\n- Tres idiomas, elegidos dentro de la app (Configuración › Idioma), sin depender del idioma de Android: español latinoamericano, portugués de Brasil e inglés de Estados Unidos. El cambio llega al Hub y a los cuatro editores al instante, incluso con un documento abierto.\n- Textos completados y revisados en los tres idiomas: menús, diálogos, mensajes de error, nube, licencia y actualizaciones. El español usa vocabulario latinoamericano (nada de España).\n- Corrector ortográfico sin conexión en Leaf, XCore y Prism, con diccionarios de español latinoamericano (con palabras de Ecuador y México), portugués de Brasil e inglés de Estados Unidos. Por defecto sigue el idioma de la interfaz y se puede cambiar por documento.\n- XCore ahora revisa la ortografía con Hunspell (antes solo inglés) y recuerda el idioma elegido.\n- El dictado y la escritura a texto usan el idioma elegido en Mangux.",
       "apk": "office-0.1.6-8.apk",
       "published_at": 1795481114
+    },
+    {
+      "id": "empresas",
+      "package": "com.mangux.office.empresas",
+      "name": "Mangux Empresas",
+      "status": "available",
+      "version": "0.1.7-empresas",
+      "version_code": 9,
+      "min_sdk": 26,
+      "abis": [
+        "arm64-v8a"
+      ],
+      "size": 177965554,
+      "url": "https://github.com/Dannyaviles99/Mangux-Oficematica/releases/download/empresas-v0.1.7-empresas/empresas-0.1.7-9.apk",
+      "sha256": "5aff0d4fa2e08dfb4869c93cb277cdc05981762eeba76b7a35ca9ea1541364d1",
+      "signer_sha256": "b03b9ae1b37fc0ec145e48ffb3054966a77e6c06d040a1a362c546068177fa3d",
+      "notes": "# Mangux Empresas 0.1.7\n\nEdición para empresas de Mangux Ofimática (Leaf, XCore, Prism y Seal). Sin anuncios y sin compras dentro de la app. Los editores se abren únicamente con una **clave** y un **código de activación** ligados al equipo.\n\n## Activación\n1. Instala el APK y abre Mangux Empresas.\n2. En Configuración › Licencia, copia el **código de este equipo** y envíalo a quien gestiona tu licencia.\n3. Escribe la clave y el código de activación (o abre el archivo `.lic`) y pulsa **Activar**.\n\n## Novedades\n- La tablet tiene las funciones del celular en la interfaz móvil: Leaf, XCore y Prism abren directo en un documento en blanco; las barras se ocultan con una flecha; las herramientas se abren al seleccionar un objeto; el micrófono aparece al usar el teclado.\n- Leaf: botón Exportar en la barra superior y herramientas de Dibujar con icono.\n- Seal: Guardar, Exportar, Deshacer, Rehacer y Buscar en la barra superior de la tablet; ✕ visible para quitar archivos de Recientes; tres barras que se ocultan por separado.\n- XCore: Inicio abre en Celdas, con Tabla y Bordes a la vista.\n- Celular: barra superior común en los cuatro editores y diálogos ajustados a la pantalla.\n- Licencias y agradecimientos dentro de Acerca de.\n- Corregida la pantalla negra al reabrir un editor que Android había cerrado.\n\n## Requisitos\nAndroid 8 o superior, equipo de 64 bits (arm64).",
+      "apk": "empresas-0.1.7-9.apk",
+      "published_at": 1795793596
     },
     {
       "id": "launcher",
